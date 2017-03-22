@@ -1,0 +1,28 @@
+{
+  "name": "bot_twitter_answer",
+  "version": "1.0.0",
+  "description": "bot for twitter API to answer followers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshjenkins6/bot_twitter_answer.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "API",
+    "learning"
+  ],
+  "author": "Joshua Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshjenkins6/bot_twitter_answer/issues"
+  },
+  "homepage": "https://github.com/joshjenkins6/bot_twitter_answer#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
