@@ -31,12 +31,3 @@ function tweetIt(txt) {
 }
 }
 }
-
-// T.post('statuses/update', { status: 'I am tweeting via the API!' }, tweeted);
-// function tweeted(err, data, response) {
-//   if(err) {
-//     console.log("didnt work");
-//   }else {
-//     console.log("success");
-//   }
-// }
